@@ -46,13 +46,17 @@ A Full CI CD Project to build Nodejs Backend app on EKS cluster using Terraform 
    2) create credentials for dockerhub
    3) create new item -->Piepline and build CI CD through jenkinsfile
    
-     ![image](https://user-images.githubusercontent.com/99266660/221446442-318b1a66-08b1-4d1a-86dd-af5653aa63dc.png)
+   ![Screenshot from 2023-02-27 02-17-38](https://user-images.githubusercontent.com/99266660/221446653-ff440cd4-5b03-4413-8042-6c67defa28e5.png)
+
      
    4) Run your app Through 
    
       http://aba13c6c7792a49e3800af58c9e4f5da-fd5057378e457d9b.elb.us-east-1.amazonaws.com :80
+      
+      
 
 
+   ![Screenshot from 2023-02-27 01-26-26](https://user-images.githubusercontent.com/99266660/221446691-502343e8-2de7-460f-9fc9-684c64d48beb.png)
 
 
 
